@@ -1,0 +1,26 @@
+git commit -m "Adina"
+<div class="use" style="float: left">
+                <div style="font-size: 30px; padding-bottom: 20px">Useful Links</div>
+                <div style="font-size: 20px; padding-bottom: 20px">Home</div>
+                <div style="font-size: 20px; padding-bottom: 20px">About Us</div>
+                <div style="font-size: 20px; padding-bottom: 20px">Menu</div>
+                <div style="font-size: 20px; padding-bottom: 20px">Services</div>
+                <div style="font-size: 20px; padding-bottom: 20px">Contact</div>
+            </div>
+            <div class="use" style="padding-left:20px ">
+                <div style="font-size: 30px; padding-bottom: 20px">Follow us</div>
+                <img src="fb-logo.png" alt="" width="50px" height="50px">
+                <img style="padding-top: 15px" src="twitter.png" alt="" width="55px" height="60px">
+                <img src="google.png" alt="" width="50px" height="50px">
+            </div>
+            <div class="use">
+                <div style="font-size: 30px; padding-bottom: 20px">Newsletter</div>
+                <input type="text">
+                <br>
+                <input type="submit" value="Subscibe" style="margin-top: 20px; background-color: orangered; padding: 10px">
+
+            </div>
+        </div>
+</div>
+</body>
+</html>
